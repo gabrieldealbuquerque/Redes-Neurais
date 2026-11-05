@@ -1,2 +1,14 @@
 .venv
 venv
+
+# Python environments and caches
+env/
+ENV/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter local state
+.ipynb_checkpoints/
